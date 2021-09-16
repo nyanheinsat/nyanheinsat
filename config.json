@@ -1,6 +1,6 @@
 {
 	"ip":"nyanheinsat.aternos.me",
-	"port": "22654",
+	"port": "25565",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
